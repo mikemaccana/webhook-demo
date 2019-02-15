@@ -1,0 +1,16 @@
+{
+  "name": "client-function",
+  "version": "1.0.0",
+  "description": "Demo client function for Appless",
+  "main": "runme.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "superagent": "^4.1.0"
+  }
+}
